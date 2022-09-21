@@ -1,0 +1,30 @@
+{
+	"storyName": "Third Time's The Charm",
+	"weekName": "ycr-remix",
+	"weekBackground": "ycr-remix",
+	"weekCharacters": [
+		"bf",
+		"sonicexe",
+		"david"
+	],
+	"weekBefore": "tutorial",
+	"hideFreeplay": false,
+	"hideStoryMode": false,
+	"difficulties": "bf, david",
+	"freeplayColor": [
+		32,
+		0,
+		128
+	],
+	"songs": [
+		[
+			"You Cant Run",
+			"sonicexe",
+			[
+				32,
+				0,
+				128
+			],
+		]
+	]
+}
