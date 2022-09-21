@@ -1,0 +1,29 @@
+{
+	"song": {
+		"song": "you-cant-run",
+		"bpm": 140,
+		"speed": 3,
+		"player1": "david",
+		"player2": "sonicexe",
+		"player3": null, --what does this even do
+		"gfVersion": "empty",
+		"stage": "suckysucky",
+		"splashSkin": "exe-splashes",
+		"arrowSkin": "exe-notes",
+		"validScore": true,
+		"needsVoices": true,
+		"events": [],
+		"notes": [
+			{
+				"bpm": 140,
+				"changeBPM": false,
+				"lengthInSteps": 16,
+				"mustHitSection": false,
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": []
+			}
+		]
+	}
+}
